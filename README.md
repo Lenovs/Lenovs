@@ -1,10 +1,33 @@
-#Seja bem-vindo ao meu perfil 
-- Estudo programação com foco em tecnologias atuais destinada ao desenvolvimento beck-end e front-end para que consiga chegar em uma carreira full-stack 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Lenovs/Lenovs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Olá, eu sou o Edileno Vilhena! 👋
+
+
+## objetivos 
+👩‍💻 Trabalho atualmente em uma empresa de transporte público.
+
+🧠 Estou aprendendo tecnologias para carreira full-stack em Java.
+
+👯‍♀️ Procuro colaborar em projetos open source para desenvolver minhas habilidades.
+
+🤔 Sou uma pessoa aberta a opiniões de experientes no mercado  .
+
+
+
+
+
+## 🚀 Sobre mim
+Eu estou me preparando para a carreira de  full-stack em Java.
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Lenovs)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
+
+
+## Stack utilizada
+
+**Front-end:**  Spring boot, Next.js, Angula, React e bibliotcas em PythonReact, Redux, TailwindCSS
+
+**Back-end:**  Spring boot, Node.js e Nest.js
+
